@@ -1,0 +1,4 @@
+- install Microsoft Keyboard Layout Creator (MSKLC) (will need .net framework)
+- import ./us-international-altgr-deadkeys.klc
+- project -> create DLL and setup
+- execute setup
